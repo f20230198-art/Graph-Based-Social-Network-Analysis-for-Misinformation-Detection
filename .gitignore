@@ -1,0 +1,28 @@
+# Data
+data/raw/FakeNewsNet/
+data/processed/
+data/embeddings/
+*.csv
+*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Model checkpoints
+results/checkpoints/
+*.pt
+*.pth
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
